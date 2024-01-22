@@ -1,4 +1,4 @@
-package com.application.SuperApplication;
+package com.application.superapplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
